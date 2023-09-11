@@ -1,0 +1,156 @@
+[
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "This is a Quarto website.\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean mauris ante, ultricies a congue at, gravida eget dui. Maecenas laoreet facilisis scelerisque. Vivamus felis nunc, lobortis vitae quam quis, egestas luctus nisi. Fusce interdum mollis justo a ultrices. Nunc aliquam tincidunt justo, a commodo nisl suscipit quis. Aenean bibendum tincidunt massa, at sollicitudin leo finibus quis. Mauris sagittis felis id tincidunt fermentum. Phasellus consectetur dolor vitae ante efficitur suscipit. Aenean faucibus mollis facilisis."
+  },
+  {
+    "objectID": "about.html#paragraph-1",
+    "href": "about.html#paragraph-1",
+    "title": "About",
+    "section": "",
+    "text": "This is a Quarto website.\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean mauris ante, ultricies a congue at, gravida eget dui. Maecenas laoreet facilisis scelerisque. Vivamus felis nunc, lobortis vitae quam quis, egestas luctus nisi. Fusce interdum mollis justo a ultrices. Nunc aliquam tincidunt justo, a commodo nisl suscipit quis. Aenean bibendum tincidunt massa, at sollicitudin leo finibus quis. Mauris sagittis felis id tincidunt fermentum. Phasellus consectetur dolor vitae ante efficitur suscipit. Aenean faucibus mollis facilisis."
+  },
+  {
+    "objectID": "about.html#paragraph-2",
+    "href": "about.html#paragraph-2",
+    "title": "About",
+    "section": "Paragraph 2",
+    "text": "Paragraph 2\nCras aliquam ipsum ante, pharetra aliquam velit rhoncus id. Cras et faucibus ex. Sed vel neque et lacus bibendum condimentum nec et nisl. Pellentesque non diam in sem elementum dictum. Sed interdum tortor orci, vitae posuere ante hendrerit id. Vivamus eget convallis ligula, at rutrum neque. Mauris bibendum lectus neque, quis ultricies ex iaculis quis. Fusce eu dui id sapien efficitur laoreet in eu lectus. Nulla vitae fringilla lorem. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Pellentesque viverra porttitor est, ut feugiat dui dignissim eu."
+  },
+  {
+    "objectID": "about.html#paragraph-3",
+    "href": "about.html#paragraph-3",
+    "title": "About",
+    "section": "Paragraph 3",
+    "text": "Paragraph 3\nDonec viverra felis sit amet pretium finibus. Vivamus id felis eu lectus imperdiet fringilla at nec metus. Ut suscipit varius pulvinar. Nulla posuere congue consequat. Sed convallis vehicula eros, non vestibulum est consectetur a. Mauris aliquet quis magna id tempor. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Nam non semper enim, feugiat aliquet ipsum. Duis risus magna, aliquet sit amet ligula a, placerat ullamcorper diam. Phasellus consectetur mattis euismod. Donec ornare quam justo, ut eleifend sapien lacinia eu. Cras nisl neque, mattis in auctor sed, tristique at nunc. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos.\nAbout this site\n\nimport matplotlib.pyplot as plt\nx = (1,2,3,4,5)\ny = (11,22,33,44,55)\nplt.plot(x, y, color = 'green')\nplt.show()"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "[simple_quarto_website]",
+    "section": "",
+    "text": "This is a Quarto website.\n\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean mauris ante, ultricies a congue at, gravida eget dui. Maecenas laoreet facilisis scelerisque. Vivamus felis nunc, lobortis vitae quam quis, egestas luctus nisi. Fusce interdum mollis justo a ultrices.\n\n\nNunc aliquam tincidunt justo, a commodo nisl suscipit quis. Aenean bibendum tincidunt massa, at sollicitudin leo finibus quis. Mauris sagittis felis id tincidunt fermentum. Phasellus consectetur dolor vitae ante efficitur suscipit. Aenean faucibus mollis facilisis."
+  },
+  {
+    "objectID": "index.html#paragraph-1",
+    "href": "index.html#paragraph-1",
+    "title": "[simple_quarto_website]",
+    "section": "",
+    "text": "This is a Quarto website.\n\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean mauris ante, ultricies a congue at, gravida eget dui. Maecenas laoreet facilisis scelerisque. Vivamus felis nunc, lobortis vitae quam quis, egestas luctus nisi. Fusce interdum mollis justo a ultrices.\n\n\nNunc aliquam tincidunt justo, a commodo nisl suscipit quis. Aenean bibendum tincidunt massa, at sollicitudin leo finibus quis. Mauris sagittis felis id tincidunt fermentum. Phasellus consectetur dolor vitae ante efficitur suscipit. Aenean faucibus mollis facilisis."
+  },
+  {
+    "objectID": "index.html#paragraph-2",
+    "href": "index.html#paragraph-2",
+    "title": "[simple_quarto_website]",
+    "section": "Paragraph 2",
+    "text": "Paragraph 2\n\nCras aliquam ipsum ante, pharetra aliquam velit rhoncus id. Cras et faucibus ex.1 Sed vel neque et lacus bibendum condimentum nec et nisl. Pellentesque non diam in sem elementum dictum.\nSed interdum tortor orci, vitae posuere ante hendrerit id. Vivamus eget convallis ligula, at rutrum neque. Mauris bibendum lectus neque, quis ultricies ex iaculis quis. Fusce eu dui id sapien efficitur laoreet in eu lectus. Nulla vitae fringilla lorem.\n\nClass aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Pellentesque viverra porttitor est, ut feugiat dui dignissim eu."
+  },
+  {
+    "objectID": "index.html#paragraph-3",
+    "href": "index.html#paragraph-3",
+    "title": "[simple_quarto_website]",
+    "section": "Paragraph 3",
+    "text": "Paragraph 3\nDonec viverra felis sit amet pretium finibus. Vivamus id felis eu lectus imperdiet fringilla at nec metus. Ut suscipit varius pulvinar. Nulla posuere congue consequat. Sed convallis vehicula eros, non vestibulum est consectetur a. Mauris aliquet quis magna id tempor. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Nam non semper enim, feugiat aliquet ipsum. Duis risus magna, aliquet sit amet ligula a, placerat ullamcorper diam. Phasellus consectetur mattis euismod. Donec ornare quam justo, ut eleifend sapien lacinia eu. Cras nisl neque, mattis in auctor sed, tristique at nunc. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos."
+  },
+  {
+    "objectID": "index.html#markdown-table",
+    "href": "index.html#markdown-table",
+    "title": "[simple_quarto_website]",
+    "section": "Markdown Table",
+    "text": "Markdown Table\n\n\n\nName\nAge\nMajor\nInterests\n\n\n\n\nMarry\n20\nDS\nGame\n\n\nLinda\n21\nCS\nGame\n\n\nDaisy\n22\nEE\nGame"
+  },
+  {
+    "objectID": "index.html#inline-math",
+    "href": "index.html#inline-math",
+    "title": "[simple_quarto_website]",
+    "section": "Inline Math",
+    "text": "Inline Math\n\\(E = mc^{2}\\)"
+  },
+  {
+    "objectID": "index.html#non-inline-math",
+    "href": "index.html#non-inline-math",
+    "title": "[simple_quarto_website]",
+    "section": "Non Inline Math",
+    "text": "Non Inline Math\n\\[ e^{ix} = cos(x)+ isin(x)\\]"
+  },
+  {
+    "objectID": "index.html#footnote",
+    "href": "index.html#footnote",
+    "title": "[simple_quarto_website]",
+    "section": "Footnote",
+    "text": "Footnote"
+  },
+  {
+    "objectID": "index.html#quote",
+    "href": "index.html#quote",
+    "title": "[simple_quarto_website]",
+    "section": "Quote",
+    "text": "Quote\n\nAll texts are created by ipsum lorem"
+  },
+  {
+    "objectID": "index.html#images",
+    "href": "index.html#images",
+    "title": "[simple_quarto_website]",
+    "section": "Images",
+    "text": "Images"
+  },
+  {
+    "objectID": "index.html#video",
+    "href": "index.html#video",
+    "title": "[simple_quarto_website]",
+    "section": "Video",
+    "text": "Video"
+  },
+  {
+    "objectID": "index.html#diagram",
+    "href": "index.html#diagram",
+    "title": "[simple_quarto_website]",
+    "section": "Diagram",
+    "text": "Diagram\n\n\n\n\nflowchart LR\n  A[Read Problem] --&gt; B(Understand Problem)\n  B --&gt; C{Start doing}\n  C --&gt; D[Correct result]\n  C --&gt; E[False result]"
+  },
+  {
+    "objectID": "index.html#citation",
+    "href": "index.html#citation",
+    "title": "[simple_quarto_website]",
+    "section": "Citation",
+    "text": "Citation\n(Provost and Fawcett 2013)"
+  },
+  {
+    "objectID": "index.html#footnotes",
+    "href": "index.html#footnotes",
+    "title": "[simple_quarto_website]",
+    "section": "Footnotes",
+    "text": "Footnotes\n\n\nThis text is meaningless.↩︎"
+  },
+  {
+    "objectID": "slides/slides.html#dsan-5000",
+    "href": "slides/slides.html#dsan-5000",
+    "title": "Classes 2023",
+    "section": "DSAN 5000",
+    "text": "DSAN 5000\n\nData Science"
+  },
+  {
+    "objectID": "slides/slides.html#dsan-5100",
+    "href": "slides/slides.html#dsan-5100",
+    "title": "Classes 2023",
+    "section": "DSAN 5100",
+    "text": "DSAN 5100\n\nProbabilistic Model"
+  },
+  {
+    "objectID": "slides/slides.html#dsan-5400",
+    "href": "slides/slides.html#dsan-5400",
+    "title": "Classes 2023",
+    "section": "DSAN 5400",
+    "text": "DSAN 5400\n\nNatural Language Processing\n(Van Der Aalst and Aalst 2016)"
+  },
+  {
+    "objectID": "slides/slides.html#python-code",
+    "href": "slides/slides.html#python-code",
+    "title": "Classes 2023",
+    "section": "Python Code",
+    "text": "Python Code\nimport matplotlib.pyplot as plt\nx = (1,2,3,4,5)\ny = (11,22,33,44,55)\nplt.plot(x, y, color = 'green')\nplt.show()\n\n\nCode\nimport matplotlib.pyplot as plt\nx = (1,2,3,4,5)\ny = (11,22,33,44,55)\nplt.plot(x, y, color = 'green')\nplt.show()\n\n\n\n\n\n\n\n\n\nVan Der Aalst, Wil, and Wil van der Aalst. 2016. Data Science in Action. Springer."
+  }
+]

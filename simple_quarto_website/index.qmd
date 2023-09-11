@@ -1,0 +1,70 @@
+---
+title: "[simple_quarto_website]"
+toc: true
+bibliography: reference.bib
+---
+
+## Paragraph 1
+This is a Quarto website.
+
+::: {.grid}
+
+::: {.g-col-6}
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean mauris ante, ultricies a congue at, gravida eget dui. Maecenas laoreet facilisis scelerisque. Vivamus felis nunc, lobortis vitae quam quis, egestas luctus nisi. Fusce interdum mollis justo a ultrices.
+:::
+  
+::: {.g-col-6}
+ Nunc aliquam tincidunt justo, a commodo nisl suscipit quis. Aenean bibendum tincidunt massa, at sollicitudin leo finibus quis. Mauris sagittis felis id tincidunt fermentum. Phasellus consectetur dolor vitae ante efficitur suscipit. Aenean faucibus mollis facilisis.
+
+:::
+  
+:::  
+
+
+## Paragraph 2
+- Cras aliquam ipsum ante, pharetra aliquam velit rhoncus id. Cras et faucibus ex.[^1] Sed vel neque et lacus bibendum condimentum nec et nisl. Pellentesque non diam in sem elementum dictum.
+* Sed interdum tortor orci, vitae posuere ante hendrerit id. Vivamus eget convallis ligula, at rutrum neque. Mauris bibendum lectus neque, quis ultricies ex iaculis quis. Fusce eu dui id sapien efficitur laoreet in eu lectus. Nulla vitae fringilla lorem.
+  + Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Pellentesque viverra porttitor est,  ut feugiat dui dignissim eu.
+
+## Paragraph 3
+Donec viverra felis sit amet pretium finibus. Vivamus id felis eu lectus imperdiet fringilla at nec metus. Ut suscipit varius pulvinar. Nulla posuere congue consequat. Sed convallis vehicula eros, non vestibulum est consectetur a. Mauris aliquet quis magna id tempor. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Nam non semper enim, feugiat aliquet ipsum. Duis risus magna, aliquet sit amet ligula a, placerat ullamcorper diam. Phasellus consectetur mattis euismod. Donec ornare quam justo, ut eleifend sapien lacinia eu. Cras nisl neque, mattis in auctor sed, tristique at nunc. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos.
+
+
+## Markdown Table
+| Name  | Age  | Major   | Interests|
+|------:|:-----|---------|:------:  |
+|Marry  |  20  |   DS    |   Game   |
+|Linda  |  21  |   CS    |   Game   |
+|Daisy  |  22  |   EE    |   Game   |
+
+## Inline Math
+$E = mc^{2}$
+
+## Non Inline Math
+$$ e^{ix} = cos(x)+ isin(x)$$
+
+## Footnote
+[^1]: This text is meaningless.
+
+## Quote 
+>All texts are created by ipsum lorem
+
+## Images
+![ML](https://miro.medium.com/v2/resize:fit:1400/format:webp/1*cG6U1qstYDijh9bPL42e-Q.jpeg)
+![AI](https://imageio.forbes.com/specials-images/dam/imageserve/966248982/960x0.jpg?format=jpg&width=1440)
+
+## Video
+{{< video https://www.youtube.com/watch?v=5p248yoa3oE >}}
+
+## Diagram
+```{mermaid}
+flowchart LR
+  A[Read Problem] --> B(Understand Problem)
+  B --> C{Start doing}
+  C --> D[Correct result]
+  C --> E[False result]
+```
+
+## Citation 
+[@provost2013data]
